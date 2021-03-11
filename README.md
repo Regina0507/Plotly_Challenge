@@ -1,4 +1,4 @@
-# Week 15 (and 16) Plot.ly Mini-Project - Belly Button Biodiversity
+# Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
@@ -67,15 +67,7 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 * Deploy your app to a Heroku using the appropriate `requirements.txt` and `Procile`.
 
-* Submit the links to your deployment and your GitHub repo. *Submit this under the Week 15 assignment in BCS (__not Week 16__)*
 
-* Ensure your repository has regular commits (i.e. 10+ commits) and a thorough README.md file
-
-## Hints
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
 ### About the Data
 
@@ -83,4 +75,3 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 
 - - -
 
-© 2021 Data Boot Camp
